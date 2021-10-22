@@ -1,0 +1,7 @@
+ Step1: Go to https://thingspeak.com/
+ Step2: Create an account and then create a new channel with one value.
+ Step3: Then go to API section and copy your write API.
+ Step4: visit to https://www.tinkercad.com/things/fdbzccfqvjx
+ 	then copy and tinker this and replace api with your
+ 	api key in code section. 
+ Step5: Finally try to understand design and code and explore! 
